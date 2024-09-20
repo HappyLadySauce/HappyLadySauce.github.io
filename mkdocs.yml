@@ -154,10 +154,7 @@ plugins:
       exclude:
         - index.md
         - tag.md
-        - waline.md
-        - blog/posts/update.md
-        - blog/posts/wkw.md
-        - about/link.md
+        - link/link.md
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: iso_date
