@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="mkdocs serve" />
+    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -56,20 +60,20 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18244219" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.18244219" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18261719" />
+      <window_info id="Commit" order="1" weight="0.18244219" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="HfCacheToolWindow" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.23538306" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.23527299" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.46320564" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.23538306" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.23527299" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3301006" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
@@ -111,6 +115,7 @@
       <workItem from="1726811808030" duration="1528000" />
       <workItem from="1726817137367" duration="336000" />
       <workItem from="1726817934422" duration="1366000" />
+      <workItem from="1726834318062" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -131,7 +136,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
