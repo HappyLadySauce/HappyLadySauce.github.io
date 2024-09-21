@@ -15,13 +15,11 @@ comments: false
  ╚══╝╚══╝  ╚═════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
                                                   
 
-
-____    __    ____  ______   ______   ____    __    ____  __  .__   __. 
-\   \  /  \  /   / /      | /  __  \  \   \  /  \  /   / |  | |  \ |  | 
- \   \/    \/   / |  ,----'|  |  |  |  \   \/    \/   /  |  | |   \|  | 
-  \            /  |  |     |  |  |  |   \            /   |  | |  . `  | 
-   \    /\    /   |  `----.|  `--'  |    \    /\    /    |  | |  |\   | 
-    \__/  \__/     \______| \______/      \__/  \__/     |__| |__| \__| 
+ _  _                     _            _      ___
+| || |__ _ _ __ _ __ _  _| |   __ _ __| |_  _/ __| __ _ _  _ __ ___
+| __ / _` | "_ \ "_ \ || | |__/ _` / _` | || \__ \/ _` | || / _/ -_)
+|_||_\__,_| .__/ .__/\_, |____\__,_\__,_|\_, |___/\__,_|\_,_\__\___|
+        |_|  |_|   |__/                |__/
 
  __        __                _       
  \ \      / /__ _____      _(_)_ __  
@@ -42,7 +40,7 @@ ____    __    ____  ______   ______   ____    __    ____  __  .__   __.
 -->
                                    
 
-<center><font  color= #518FC1 size=6 class="ml3">Mkdocs-Wcowin博客主题</font></center>
+<center><font  color= #518FC1 size=6 class="ml3">HappyLadySauce`s Mkdocs</font></center>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
 
@@ -143,11 +141,8 @@ ____    __    ____  ______   ______   ____    __    ____  __  .__   __.
   </div>
   <ul>
     <li>通过主题和目录以打开文章</li>
-    <ul>
-      <li>基于Material for MkDocs美化</li>
-      <li>简洁美观，功能多元化</li>
-    </ul>
-    <li>简单易上手，小白配置</li>
+    <li>基于Material for MkDocs美化</li>
+    <li>简洁美观，功能多元化</li>
     <li>
       如遇到网页卡顿的情况，请使用<strong><a href="https://www.yuque.com/wcowin/mkdocs-wcowin?# 《Mkdocs-Wcowin中文教程》" target="_blank">Mkdocs-Wcowin中文教程(语雀)</a></strong>
     </li>
@@ -162,7 +157,10 @@ ____    __    ____  ______   ______   ____    __    ____  __  .__   __.
 QQ群(1)
 { .annotate }
 
-1. QQ: 940648979,备注: mkdocs
+1. <figure markdown>
+    ![QQ群](assets/QQ.png)
+</figure>
+
 ***  
 
 <!-- <strong>推荐文章:material-book:</strong>

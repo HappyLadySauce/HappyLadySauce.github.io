@@ -1,6 +1,6 @@
 #[Info]
-site_name: Happlelaoganma #your site name 显示在左上角
-site_url: https://www.happlelaoganma.cn
+site_name: HappyLadySauce #your site name 显示在左上角
+site_url: https://happlelaoganma.cn
 site_author: HappyLadySauce # your name
 #[UI]
 theme:
@@ -9,9 +9,9 @@ theme:
   # font: #谷歌字体，自行搜索
   #   text: Bitter  #文本字体
   #   code: Roboto Mono  #代码字体
-  # logo: assets/favicon.png #左上角logo，可插入图片链接
+  logo: assets/home.png #左上角logo，可插入图片链接
 
-  favicon: https://s2.loli.net/2024/04/26/PmRdM9iGnvOJHgu.png # 网页icon
+  favicon: assets/favicon.png # 网页icon
 
   palette:
     - media: "(prefers-color-scheme)"
@@ -62,7 +62,7 @@ theme:
   icon:
     repo: fontawesome/brands/github #右上角图标
     logo: logo
-edit_uri: edit/main/docs # 编辑按钮跳转的链接
+edit_uri: HappyLadySauce.github.io/edit/main/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/HappyLadySauce # 右上角点击跳转的链接
 repo_name: HappyLadySauce # 右上角的名字
 
@@ -106,12 +106,12 @@ nav:
       - 友链: link/link.md
       - 如何添加友链: link/addlink.md
   - 关于:
-      - 作者个人简介: about/geren.md
+      - 作者个人简介: about/me.md
 
-copyright: Copyright &copy; 2022~2024 Wcowin/All Rights Reserved. # 左下角的版权声明
+copyright: Copyright &copy; 2024~2026 HappyLadySauce/All Rights Reserved. # 左下角的版权声明
 
 extra:
-  generator: false #是否删除页脚显示“使用 MkDocs 材料制造”
+  generator: ture #是否删除页脚显示“使用 MkDocs 材料制造”
   social:
       #联系方式图标 : https://fontawesome.com/ 去这里找图标
     - icon: fontawesome/brands/github
@@ -139,11 +139,11 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
   # cookies设置（可选）
-  # consent:
-  #   title: Cookie consent
-  #   description: >-
-  #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
-  #     如果你同意,你可以帮助我们让我们的网站更好
+  consent:
+     title: Cookie consent
+     description: >-
+       我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
+       如果你同意,你可以帮助我们让我们的网站更好！
 
 plugins:
   - search #搜索配置
@@ -165,7 +165,7 @@ plugins:
         - liuyanban.md
         - blog/posts/update.md
         - blog/posts/wkw.md
-        - about/link.md
+        - link/link.md
         - websitebeauty/linktech.md
   - blog: #博客配置
       post_date_format: full #时间
