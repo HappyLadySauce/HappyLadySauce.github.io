@@ -1,5 +1,5 @@
 #[Info]
-site_name: HappyLadySauce #your site name 显示在左上角
+site_name: HappyLadySauce's Web #your site name 显示在左上角
 site_url: https://happlelaoganma.cn
 site_author: HappyLadySauce # your name
 #[UI]
@@ -69,7 +69,13 @@ repo_name: HappyLadySauce # 右上角的名字
 # [Navigtion]
 nav:
   # - 主页: index.md
+  - 博客:
+      - index: blog/index.md
+  - 配置文档:
+      - index: doc/index.md
+  - HappleCraft: https://www.happlelaoganma.cn
   - 构建MKdocs:
+    - 本栏目摘录自Wcowin'Web: https://wcowin.work/
     - MKdocs中文教程:
         - MKdocs教程(三部曲):
             - 1. 利用mkdocs部署静态网页至GitHub pages: blog/Mkdocs/mkdocs1.md
@@ -100,8 +106,6 @@ nav:
 
   - 标签: tag.md
   - 留言板: liuyanban.md
-  - Blogger:
-      - index: blog/index.md
   - 朋友:
       - 友链: link/link.md
       - 如何添加友链: link/addlink.md

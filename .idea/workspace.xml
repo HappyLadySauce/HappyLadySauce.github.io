@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="修改了主页和其他的自定义配置">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="修复了评论和聊天机器人&#10;完善了博客设置">
+      <change afterPath="$PROJECT_DIR$/docs/about/me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/.authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/.authors.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/link/link.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/link/link.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/overrides/partials/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overrides/partials/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/overrides/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overrides/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +64,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09824219" />
-      <window_info id="Commit" order="1" weight="0.098627165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08964844" />
+      <window_info id="Commit" order="1" weight="0.05292969" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -77,7 +75,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.15625" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.15625" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.11170977" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -126,7 +124,8 @@
       <workItem from="1726842002175" duration="1683000" />
       <workItem from="1726914258227" duration="3761000" />
       <workItem from="1726927195857" duration="8941000" />
-      <workItem from="1726976762537" duration="4938000" />
+      <workItem from="1726976762537" duration="5841000" />
+      <workItem from="1727000123351" duration="3449000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726937054018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修复了评论和聊天机器人&#10;完善了博客设置">
+      <option name="closed" value="true" />
+      <created>1726987754533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726987754533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="第一版,主题修改完毕" />
     <MESSAGE value="修改了主页和其他的自定义配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了主页和其他的自定义配置" />
+    <MESSAGE value="修复了评论和聊天机器人&#10;完善了博客设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复了评论和聊天机器人&#10;完善了博客设置" />
   </component>
 </project>

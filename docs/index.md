@@ -40,7 +40,7 @@ comments: false
 -->
                                    
 
-<center><font  color= #518FC1 size=6 class="ml3">HappyLadySauce`s Mkdocs</font></center>
+<center><font  color= #518FC1 size=6 class="ml3">HappyLadySauce's Mkdocs</font></center>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
 
@@ -158,7 +158,7 @@ QQ群(1)
 { .annotate }
 
 1. <figure markdown>
-    ![QQ群](assets/QQ.png)
+    ![QQ群](assets/QQ.jpg)
 </figure>
 
 ***  
@@ -175,6 +175,14 @@ QQ群(1)
 
 <div class="grid cards" markdown>
 
+-   :simple-aboutdotme:{ .lg .middle } __关于__
+
+    ---
+    - [Mkdocs-Wcowin博客主题社区](https://support.qq.com/products/646913/){target=“_blank”}
+    - [留言板](liuyanban.md)
+    - [Blogger](blog/index.md)   
+    [:octicons-arrow-right-24: 了解我](about/me.md)
+
 -   :simple-materialformkdocs:{ .lg .middle } __Mkdocs教程__
 
     ---
@@ -183,15 +191,6 @@ QQ群(1)
     - [Mkdocs部署配置说明(mkdocs.yml)](blog/Mkdocs/mkdocs2.md)
     - [如何给MKdocs添加友链](blog/websitebeauty/linktech.md)
     - [网站添加Mkdocs博客](blog/Mkdocs/mkdocsblog.md)
-
-
--   :simple-aboutdotme:{ .lg .middle } __关于__
-
-    ---
-    - [Mkdocs-Wcowin博客主题社区](https://support.qq.com/products/646913/){target=“_blank”}
-    - [留言板](liuyanban.md)
-    - [Blogger](blog/index.md)   
-    [:octicons-arrow-right-24: 了解我](about/me.md)
 
 </div>
 
