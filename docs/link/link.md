@@ -40,9 +40,9 @@ t.parentNode.insertBefore(e,t)}})();
        <a href="https://www.happlelaoganma.cn" target="_blank">Happlelaoganma</a> 
       </div> 
       <div class="info">
-       “”
-      </div> 
+        "Yesterday is history,tomorrow is a mystery,but today is a gift.That is why it is called the present."
      </div> 
+    </div> 
     </div>
     <div class="card"> 
      <img class="ava" src="https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png" /> 
@@ -51,7 +51,7 @@ t.parentNode.insertBefore(e,t)}})();
        <a href="https://wcowin.work/ " target="_blank">Wcowin's Web</a> 
       </div> 
       <div class="info">
-       “循此苦旅，以达星辰”
+       "循此苦旅，以达星辰"
       </div> 
      </div> 
     </div>

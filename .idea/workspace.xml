@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="第一版,主题修改完毕">
+    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="修改了主页和其他的自定义配置">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublishMySite.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/PublishMySite.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/.authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/.authors.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/overrides/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overrides/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/link/link.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/link/link.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/overrides/partials/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overrides/partials/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overrides/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overrides/partials/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/webdata/HappyLadySauce.github.io/.github/workflows",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/webdata/HappyLadySauce.github.io/.github/workflows&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -67,8 +66,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.09863281" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.09863281" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09824219" />
+      <window_info id="Commit" order="1" weight="0.098627165" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -77,8 +76,8 @@
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.21875" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.21875" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.15625" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.15625" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -126,7 +125,8 @@
       <workItem from="1726834318062" duration="1795000" />
       <workItem from="1726842002175" duration="1683000" />
       <workItem from="1726914258227" duration="3761000" />
-      <workItem from="1726927195857" duration="8795000" />
+      <workItem from="1726927195857" duration="8941000" />
+      <workItem from="1726976762537" duration="4938000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726835207761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改了主页和其他的自定义配置">
+      <option name="closed" value="true" />
+      <created>1726937054018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726937054018</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +186,7 @@
     <MESSAGE value="mkdocs serve" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="第一版,主题修改完毕" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一版,主题修改完毕" />
+    <MESSAGE value="修改了主页和其他的自定义配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了主页和其他的自定义配置" />
   </component>
 </project>

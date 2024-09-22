@@ -197,8 +197,8 @@ QQ群(1)
 
 
 
-[^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
-[^see-how-much-I-love-you]:All-problems-in-computer-science-can-be-solved-by-another-level-of-indirection
+<div class="image-container">"Yesterday is history,tomorrow is a mystery,but today is a gift."</div>
+<div class="image-container">"That is why it is called the present."</div>
 
    <body>
         <font color="#B9B9B9">
