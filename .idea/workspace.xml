@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="更新了导航栏">
-      <change afterPath="$PROJECT_DIR$/docs/about/skin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/doc/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/doc/构建openresty.md" afterDir="false" />
+    <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="更新文章">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/me.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/me.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascripts/extra.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascripts/extra.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/stylesheets/extra.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/stylesheets/extra.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +60,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17644757" />
-      <window_info id="Commit" order="1" weight="0.04863281" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17666185" />
+      <window_info id="Commit" order="1" weight="0.17644757" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -78,7 +70,7 @@
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.12257369" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.12247984" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12257369" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
@@ -132,7 +124,8 @@
       <workItem from="1727000123351" duration="3499000" />
       <workItem from="1727006609854" duration="12101000" />
       <workItem from="1727147193648" duration="981000" />
-      <workItem from="1727177377025" duration="2516000" />
+      <workItem from="1727177377025" duration="4588000" />
+      <workItem from="1727192300083" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -174,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727003606943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新文章">
+      <option name="closed" value="true" />
+      <created>1727180201859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727180201860</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +212,7 @@
     <MESSAGE value="修改了主页和其他的自定义配置" />
     <MESSAGE value="修复了评论和聊天机器人&#10;完善了博客设置" />
     <MESSAGE value="更新了导航栏" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了导航栏" />
+    <MESSAGE value="更新文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文章" />
   </component>
 </project>
