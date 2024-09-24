@@ -157,9 +157,7 @@ comments: false
 QQ群(1)
 { .annotate }
 
-1. <figure markdown>
-    ![QQ群](assets/QQ.jpg)
-</figure>
+1. QQ群: 940648979
 
 ***  
 
@@ -178,7 +176,7 @@ QQ群(1)
 -   :simple-aboutdotme:{ .lg .middle } __关于__
 
     ---
-    - [Mkdocs-Wcowin博客主题社区](https://support.qq.com/products/646913/){target=“_blank”}
+    - [HappleCraft](about/skin.md)
     - [留言板](liuyanban.md)
     - [Blogger](blog/index.md)   
     [:octicons-arrow-right-24: 了解我](about/me.md)

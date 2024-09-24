@@ -73,9 +73,10 @@ nav:
       - index: blog/index.md
   - 配置文档:
       - index: doc/index.md
-  - HappleCraft: https://www.happlelaoganma.cn
+      - 运维:
+        - openresty: doc/构建openresty.md
+  - HappleCraft: about/skin.md
   - 构建MKdocs:
-    - 本栏目摘录自Wcowin'Web: https://wcowin.work/
     - MKdocs中文教程:
         - MKdocs教程(三部曲):
             - 1. 利用mkdocs部署静态网页至GitHub pages: blog/Mkdocs/mkdocs1.md
@@ -103,6 +104,7 @@ nav:
         - 设计美学:
             - 唐·诺曼—情感设计的三个层次: develop/designbeauty/db1.md
             - 我对设计的一些观点: develop/designbeauty/my-to-desihn.md
+    - 本栏目摘录自Wcowin'Web: https://wcowin.work/
 
   - 标签: tag.md
   - 留言板: liuyanban.md
@@ -143,11 +145,11 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
   # cookies设置（可选）
-  consent:
-     title: Cookie consent
-     description: >-
-       我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
-       如果你同意,你可以帮助我们让我们的网站更好！
+  #consent:
+  #   title: Cookie consent
+  #   description: >-
+  #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
+  #     如果你同意,你可以帮助我们让我们的网站更好！
 
 plugins:
   - search #搜索配置
