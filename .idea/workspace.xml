@@ -60,8 +60,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17666185" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17666185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15498555" />
+      <window_info id="Commit" order="1" weight="0.10368497" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -70,8 +70,8 @@
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.12247984" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.12257369" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.20110887" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.20110887" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -126,7 +126,11 @@
       <workItem from="1727147193648" duration="981000" />
       <workItem from="1727177377025" duration="4588000" />
       <workItem from="1727192300083" duration="67000" />
-      <workItem from="1727238327198" duration="13000" />
+      <workItem from="1727238327198" duration="709000" />
+      <workItem from="1727411936499" duration="996000" />
+      <workItem from="1727484702499" duration="1763000" />
+      <workItem from="1727963721185" duration="1127000" />
+      <workItem from="1728302144772" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -184,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727192352892</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新文章">
+      <option name="closed" value="true" />
+      <created>1727238538903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727238538903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,7 +1,7 @@
 ---
 title: HppleCraft
 authors: [HappyLadySauce]  #作者
-date: 2024-9-25
+date: 2024-10-7
 comments: true
 hide:
   - footer
@@ -18,19 +18,19 @@ HappleCraft是我搭建的一个Minecraft的服务器，无盈利纯公益服务
 
 在这里我会放出最新周目的情况和说明:
 
-## 第二周目: 方块宝可梦MOD生存
+## 第二周目: 宝可梦MOD生存
 
 ### 基本信息
 
-MC版本: 1.20.1
+MC版本: 1.16.5
 
-服务器端: forge + plugins
+服务器端: Mohist
 
-支持人数: 24人
+支持人数: 20人
 
 ### 主要模组
 
-大型MOD:植物魔法(有附属)，方块宝可梦(附属齐全)，机械动力(有部分附属)，暮色森林
+大型MOD:像素宝可梦重铸版
 辅助MOD有FTB全家桶，精妙背包，车万女仆等
 还有一些优化MOD外加铷和光影。
 
@@ -40,4 +40,4 @@ MC版本: 1.20.1
 
 更多消息请加入QQ群获取(940648979)
 
-<div class="image-container">文章更新时间: 2024-9-25</div>
+<div class="image-container">文章更新时间: 2024-10-7</div>
