@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="更新文章">
+      <change afterPath="$PROJECT_DIR$/docs/MC/MCSM+服务端部署.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/MC/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/skin.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MC/skin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/webdata/HappyLadySauce.github.io/.github/workflows&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/webdata/HappyLadySauce.github.io/docs/MC&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,8 +65,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15498555" />
-      <window_info id="Commit" order="1" weight="0.10368497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10097656" />
+      <window_info id="Commit" order="1" weight="0.16784038" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -71,7 +76,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.20110887" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.20110887" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.026221264" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -89,6 +94,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/MC" />
       <recent name="$PROJECT_DIR$/.github/workflows" />
       <recent name="$PROJECT_DIR$/docs/assets" />
       <recent name="$PROJECT_DIR$/docs/link" />
@@ -130,7 +136,14 @@
       <workItem from="1727411936499" duration="996000" />
       <workItem from="1727484702499" duration="1763000" />
       <workItem from="1727963721185" duration="1127000" />
-      <workItem from="1728302144772" duration="16000" />
+      <workItem from="1728302144772" duration="1377000" />
+      <workItem from="1728394866869" duration="1911000" />
+      <workItem from="1728438147913" duration="4040000" />
+      <workItem from="1728527930755" duration="1176000" />
+      <workItem from="1728568173876" duration="19000" />
+      <workItem from="1728568260967" duration="2114000" />
+      <workItem from="1728605030001" duration="2717000" />
+      <workItem from="1728619317138" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -196,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727238538903</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="更新文章">
+      <option name="closed" value="true" />
+      <created>1728302308054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728302308055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

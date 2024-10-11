@@ -176,7 +176,7 @@ QQ群(1)
 -   :simple-aboutdotme:{ .lg .middle } __关于__
 
     ---
-    - [HappleCraft](about/skin.md)
+    - [HappleCraft](MC/skin.md)
     - [留言板](liuyanban.md)
     - [Blogger](blog/index.md)   
     [:octicons-arrow-right-24: 了解我](about/me.md)

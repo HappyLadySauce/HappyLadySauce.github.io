@@ -75,7 +75,10 @@ nav:
       - index: doc/index.md
       - 运维:
         - openresty: doc/构建openresty.md
-  - HappleCraft: about/skin.md
+  - Minecraft:
+      - HappleCraft: MC/skin.md
+      - 服务器管理技术: MC/index.md
+      - MCSM+服务端部署: MC/MCSM+服务端部署.md
   - 构建MKdocs:
     - MKdocs中文教程:
         - MKdocs教程(三部曲):
@@ -104,7 +107,7 @@ nav:
         - 设计美学:
             - 唐·诺曼—情感设计的三个层次: develop/designbeauty/db1.md
             - 我对设计的一些观点: develop/designbeauty/my-to-desihn.md
-    - 本栏目摘录自Wcowin'Web: https://wcowin.work/
+    - 本栏目摘录自Wcowin'Web: https://wcowin.work
 
   - 标签: tag.md
   - 留言板: liuyanban.md
