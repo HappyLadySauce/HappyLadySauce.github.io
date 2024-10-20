@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b09f60-afb7-4656-ad7f-f77a196f8292" name="更改" comment="更新文章">
-      <change afterPath="$PROJECT_DIR$/docs/MC/MCSM+服务端部署.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/MC/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/skin.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MC/skin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascripts/extra.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascripts/extra.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/stylesheets/extra.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/stylesheets/extra.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +63,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10097656" />
-      <window_info id="Commit" order="1" weight="0.16784038" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2468701" />
+      <window_info id="Commit" order="1" weight="0.1007948" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -76,7 +74,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.21875" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.20110887" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.026221264" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3483106" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.23538306" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -143,7 +141,10 @@
       <workItem from="1728568173876" duration="19000" />
       <workItem from="1728568260967" duration="2114000" />
       <workItem from="1728605030001" duration="2717000" />
-      <workItem from="1728619317138" duration="1401000" />
+      <workItem from="1728619317138" duration="1642000" />
+      <workItem from="1728635543006" duration="1045000" />
+      <workItem from="1728708446850" duration="660000" />
+      <workItem from="1728995378252" duration="3039000" />
     </task>
     <task id="LOCAL-00001" summary="mkdocs serve">
       <option name="closed" value="true" />
@@ -217,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728302308055</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="更新文章">
+      <option name="closed" value="true" />
+      <created>1728620947658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728620947658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
